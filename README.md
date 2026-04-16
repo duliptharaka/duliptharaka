@@ -17,7 +17,7 @@ I’m currently combining my background in **power systems engineering** with **
 ## 🛠 Tech Stack
 
 **Languages:** `Python` `TypeScript` `C` `MATLAB`  
-**AI / Dev:** `OpenAI API` `RAG` `Multi-Agent Systems` `Cursor` `Claude Code` `GitHub` `Azure AI`  
+**AI / Dev:** `OpenAI API` `RAG` `LangChain` `Multi-Agent Systems` `Cursor` `Claude Code` `GitHub` `Azure AI`
 **ML / Modeling:** `LVQ` `MLP` `DNN` `XGBoost` `SVM` `KNN` `FIS` `RNN` `LSTM`
 **Deployment:** `Docker` `Render` `Vercel`  
 **Power Systems / Simulation:** `SCADA/EMS` `RTDS/RSCAD` `OPAL-RT` `PSS/E` `PSCAD/EMTDC` `PowerWorld` `Synchrophasor Networks` `Substation Automation`  
