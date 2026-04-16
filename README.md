@@ -4,13 +4,13 @@
 
 # Hi, I'm Dulip Madurasinghe 👋 😊
 
-I am a **Power Systems Engineer, Researcher, and AI/ML enthusiast** with a PhD in Electrical Engineering from **Clemson University**. My work sits at the intersection of **modern power systems, AI/ML, topology processing, state estimation, and operational situational awareness**.
+I am a **Power Systems Engineer, Researcher, and AI/ML System Developer** with a PhD in Electrical Engineering from **Clemson University**. My work sits at the intersection of **modern power systems, AI/ML, topology processing, state estimation, and operational situational awareness**.
 
 ---
 
 ## 🔭 Current Focus
 
-I’m currently combining my background in **power systems engineering** with **AI engineering** through practical work on **LLM-powered applications, deployable RAG systems, multi-agent workflows, AI evaluation, reliable software delivery**, and the use of AI for **critical infrastructure and energy systems**.
+I’m currently combining my background in **power systems engineering** with **AI engineering** through practical work on **LLM-powered applications, deployable RAG systems, multi-agent workflows, AI evaluation, reliable software delivery**, and the use of AI for **critical infrastructure and power systems**.
 
 ---
 
