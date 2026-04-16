@@ -2,7 +2,7 @@
 
 ---
 
-# Hi, I'm Dulip Tharaka Madurasinghe 👋 😊
+# Hi, I'm Dulip Madurasinghe 👋 😊
 
 I am a **Power Systems Engineer, Researcher, and AI/ML enthusiast** with a PhD in Electrical Engineering from **Clemson University**. My work sits at the intersection of **modern power systems, AI/ML, topology processing, state estimation, and operational situational awareness**.
 
